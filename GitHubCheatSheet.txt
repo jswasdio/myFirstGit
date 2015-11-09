@@ -21,6 +21,20 @@ ADD A NEW FILE VIA YOUR LOCAL (laptop) COPY
 5) Optionally, you can sync ith your local copy if you want.  To do that, see the SYNC section below (if I ever write it).
 
 
+UPDATE A NEW FILE VIA YOUR LOCAL (laptop) COPY
+1) Update the file.
+2) git add <filename>      # Yes, you need to do this to "stage" the changes, even though the file already existed.
+3) git status     # optional, but shows whether git knows the change(s) were made
+4) If the file is ready to be committed, then "git commit"
+5) Optionally, you can sync ith your local copy if you want.  To do that, see the SYNC section below (if I ever write it).
+
+
 SYNC
 I currently sync via the github GUI because that's the only way that I know how.
 The "sync" is in the upper right.
+
+GITHUB GUI
+This doesn't seem to be useful for making changes.  
+It will show you changes that have been made.
+It will sync changes that have been made (copy from the online repository to the local copy and vice-versa).
+

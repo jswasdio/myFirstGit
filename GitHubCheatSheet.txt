@@ -1,0 +1,11 @@
+This file won't be much help unless you can see it, so you'll already need to have succeeded with the first few steps...
+
+
+ADD A NEW FILE.
+1) Go to github.com
+2) Log in.
+3) Add a new file:
+   A) Click on the "+" sign after the repository name.
+   B) Edit the file.
+   C) Commit the file (scroll down to the bottom of the page).
+4) Optionally, you can sync ith your local copy if you want.  To do that, see the SYNC section below (if I ever write it).

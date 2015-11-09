@@ -1,4 +1,5 @@
 # myFirstGit
 my first GitHub repository
 
-I'm still experimenting with how to make updates...
+If the tweet_output directory does not exist, please create it.
+

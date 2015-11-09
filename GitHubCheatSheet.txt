@@ -1,7 +1,7 @@
 This file won't be much help unless you can see it, so you'll already need to have succeeded with the first few steps...
 
 
-ADD A NEW FILE.
+ADD A NEW FILE VIA THE BROWSER.
 1) Go to https://github.com/
 2) Sign in (upper right)
 Find "Your repositories"
@@ -11,3 +11,16 @@ Click on "myFistGit" (or whatever your repo name is).
    B) Edit the file.
    C) Commit the file (scroll down to the bottom of the page).
 4) Optionally, you can sync ith your local copy if you want.  To do that, see the SYNC section below (if I ever write it).
+
+
+ADD A NEW FILE VIA YOUR LOCAL (laptop) COPY
+1) Create the file.
+2) git add <filename>
+3) git status     # optional, but shows whether git knows the change(s) were made
+4) If the file is ready to be committed, then "git commit"
+5) Optionally, you can sync ith your local copy if you want.  To do that, see the SYNC section below (if I ever write it).
+
+
+SYNC
+I currently sync via the github GUI because that's the only way that I know how.
+The "sync" is in the upper right.
